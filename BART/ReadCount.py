@@ -20,7 +20,7 @@ from BART.IOparser import get_tag_regions
 plus = re.compile('\+')
 minus = re.compile('\-')
       
-
+aaa=3
 def is_list_sorted(mylist):
     '''
     Check if list is sorted
